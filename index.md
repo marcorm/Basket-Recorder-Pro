@@ -2,6 +2,45 @@
 layout: default
 ---
 
+# Basket Recorder Pro
+
+Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+
+## Indice
+
+- [Per iniziare](#per-iniziare)
+- [Come si usa](#come-si-usa)
+  - [Giocatori](#giocatori)
+  - [Stagioni](#stagioni)
+  - [Partite](#partite)
+- [Domande Frequenti](#domande-frequenti)
+- [Contatti](#contatti)
+
+
+# [](#per-iniziare)Per iniziare
+
+Questa è una guida introduttiva per facilitare l'utilizzo dell'app per iPad **Basket Recorder Pro**
+
+Se hai un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+
+Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook")**
+
+
+# [](#come-si-usa)Come si usa
+
+In questa sezione ti guideremo passo-passo nella configurazione e nell'utilizzo di **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+
+![HomeImg](images/1-home.png "Home Page")
+
+La prima schermata permette di navigare verso varie schermate, quali:
+- _I Miei Giocatori_
+- _Le Mie Stagioni_
+- _Board (lavagnetta)_
+- _Opzioni / Backup / Crediti_
+
+Cominciamo da quella dei _Giocatori_
+
+## [](#giocatori)Giocatori
 
 
 > This is a blockquote following a header.
