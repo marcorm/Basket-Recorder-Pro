@@ -23,7 +23,7 @@ Questa è una guida introduttiva per facilitare l'utilizzo dell'app per iPad **B
 
 Se hai un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
-Puoi anche seguire le novità sugli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook")**
+Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook")**
 
 
 # [](#come-si-usa)Come si usa
