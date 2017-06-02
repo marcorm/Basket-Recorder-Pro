@@ -50,6 +50,10 @@ Quando si accede per la prima volta alla sezione dei _Giocatori_ ci viene presen
 
 ![PlayersImg](images/2-giocatori.png "Giocatori")
 
+Da qui, premendo su _Aggiungi un giocatore_ oppure sul _+_ in alto a sinistra si aprirà la schermata di aggiunta dei giocatori:
+
+![PlayersImg](images/3-giocatori.png "Aggiungi Giocatore")
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
