@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Basket Recorder Pro
-Guida introduttiva per l'App per iPad 'Basket Recorder Pro'.
-https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8
+Guida introduttiva per l'App per iPad [https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8]('Basket Recorder Pro')
+
 
 ## Per iniziare
 Text can be **bold**, _italic_, or ~~strikethrough~~.
