@@ -22,6 +22,7 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Versione Android]()
   - [Numeri Maglia]()
   - [Versione Free]()
+  - [Ho aggiunto Giocatore non lo posso convocare]()
 - [Contatti](#contatti)
 
 
