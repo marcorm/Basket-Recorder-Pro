@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Basket Recorder Pro
 
@@ -18,11 +17,11 @@ Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.app
 - [Contatti](#contatti)
 
 
-## [](#per-iniziare)Per iniziare
+# [](#per-iniziare)Per iniziare
 
 Questa è una guida introduttiva per facilitare l'utilizzo dell'app per iPad **Basket Recorder Pro**
 
-Se possiedi un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+Se hai un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
 Puoi anche seguire le novità sugli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook")**
 
