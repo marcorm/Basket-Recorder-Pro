@@ -100,7 +100,11 @@ In questa schermata i campi obbligatori sono:
 
 Inoltre è possibile selezionare la maglia con la quale si giocherà, ed è obbligatorio selezionare i _Giocatori Convocati_:
 
-![GamesImg](assets/images/9-partite.jpg "Seleziona Convocati")
+![GamesImg](assets/images/9-convocati.jpg "Seleziona Convocati")
+
+Per cominciare una partita bisogna convocare almeno _5 Giocatori_.
+
+
 
 > This is a blockquote following a header.
 >
