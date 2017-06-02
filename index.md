@@ -17,7 +17,7 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Giocatori](#giocatori)
   - [Stagioni](#stagioni)
   - [Partite](#partite)
-  - [Raccolta Statistiche](raccolta-statistiche)
+  - [Raccolta Statistiche](#raccolta-statistiche)
 - [Domande Frequenti](#domande-frequenti)
   - [Versione Android]()
   - [Numeri Maglia]()
