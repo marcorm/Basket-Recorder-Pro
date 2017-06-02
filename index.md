@@ -92,6 +92,16 @@ Da qui, premendo su _Aggiungi una partite_ oppure sul _+_ in alto a sinistra, si
 
 ![GamesImg](assets/images/8-partite.jpg "Aggiungi Partita")
 
+In questa schermata i campi obbligatori sono:
+- Squadra Avversaria
+- In Casa / Fuori Casa
+- Andata / Ritorno
+- Stagione Regolare / Post-Season
+
+Inoltre è possibile selezionare la maglia con la quale si giocherà, ed è obbligatorio selezionare i _Giocatori Convocati_:
+
+![GamesImg](assets/images/9-partite.jpg "Seleziona Convocati")
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
