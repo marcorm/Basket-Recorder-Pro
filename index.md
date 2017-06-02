@@ -66,6 +66,9 @@ Terminata la lista dei _Giocatori_ si può passare, tornando prima alla _Home_, 
 
 ![SeasonsImg](assets/images/4-stagioni.png "Stagioni")
 
+Da qui, premendo su _Aggiungi una stagione oppure sul _+_ in alto a sinistra si aprirà la schermata di aggiunta delle stagioni:
+
+![SeasonsImg](assets/images/5-stagioni.png "Aggiungi Stagione")
 
 
 > This is a blockquote following a header.
