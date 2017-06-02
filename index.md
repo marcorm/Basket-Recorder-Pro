@@ -13,7 +13,11 @@ Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.app
   - [Giocatori](#giocatori)
   - [Stagioni](#stagioni)
   - [Partite](#partite)
+  - [Raccolta Statistiche]()
 - [Domande Frequenti](#domande-frequenti)
+  - [Versione Android]()
+  - [Numeri Maglia]()
+  - [Versione Free]()
 - [Contatti](#contatti)
 
 
@@ -42,6 +46,9 @@ Cominciamo da quella dei _Giocatori_
 
 ## [](#giocatori)Giocatori
 
+Quando si accede per la prima volta alla sezione dei _Giocatori_ ci viene presentata questa schermata:
+
+![PlayersImg](images/2-giocatori.png "Giocatori")
 
 > This is a blockquote following a header.
 >
