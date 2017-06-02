@@ -17,7 +17,7 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Giocatori](#giocatori)
   - [Stagioni](#stagioni)
   - [Partite](#partite)
-  - [Raccolta Statistiche]()
+  - [Raccolta Statistiche](raccolta-statistiche)
 - [Domande Frequenti](#domande-frequenti)
   - [Versione Android]()
   - [Numeri Maglia]()
@@ -104,6 +104,9 @@ Inoltre è possibile selezionare la maglia con la quale si giocherà, ed è obbl
 
 Per cominciare una partita bisogna convocare almeno _5 Giocatori_.
 
+## [](#raccolta-statistiche)Raccolta Statistiche
+
+Dopo aver cliccato su _Vai Alla Partita!_ ed aver speso il credito relativo, ci verrà chiesto di inserire il _Quintetto Base_
 
 
 > This is a blockquote following a header.
