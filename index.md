@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # Basket Recorder Pro
 
 Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
@@ -36,7 +37,7 @@ La prima schermata permette di navigare verso varie schermate, quali:
 - _I Miei Giocatori_
 - _Le Mie Stagioni_
 - _Board (lavagnetta)_
-- Opzioni / Backup / Crediti
+- _Opzioni / Backup / Crediti_
 
 Cominciamo da quella dei _Giocatori_
 
