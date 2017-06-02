@@ -9,8 +9,8 @@ Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.app
 1. [Per iniziare](#per-iniziare)
 2. [Come si usa]()
   1. [Giocatori]()
-  2. [Stagioni]()
-  3. [Partite]()
+   2. [Stagioni]()
+    3. [Partite]()
 3. [Domande Frequenti](#large-image)
 
 
