@@ -1,33 +1,37 @@
 ---
 layout: default
 ---
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Basket Recorder Pro
+
 Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
 ## Indice
-1. [Per iniziare](#per-iniziare)
-2. [Come si usa]()
-   1. [Giocatori]()
-   2. [Stagioni]()
-   3. [Partite]()
-3. [Domande Frequenti](#large-image)
+
+- [Per iniziare](#per-iniziare)
+- [Come si usa](#come-si-usa)
+  - [Giocatori](#giocatori)
+  - [Stagioni](#stagioni)
+  - [Partite](#partite)
+- [Domande Frequenti](#domande-frequenti)
+- [Contatti](#contatti)
 
 
-## Per iniziare
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## [](#per-iniziare)Per iniziare
 
-[Link to another page](another-page).
+Questa è una guida introduttiva per facilitare l'utilizzo dell'app per iPad **Basket Recorder Pro**
 
-There should be whitespace between paragraphs.
+Se possiedi un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Puoi anche seguire le novità sugli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook")**
 
-# [](#header-1)Header ciao
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# [](#come-si-usa)Come si usa
 
-## [](#header-2)Header 2
+In questa sezione ti guideremo passo-passo nella configurazione e nell'utilizzo di **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+
+## [](#giocatori)Giocatori
 
 > This is a blockquote following a header.
 >
