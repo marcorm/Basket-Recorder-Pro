@@ -55,11 +55,18 @@ Da qui, premendo su _Aggiungi un giocatore_ oppure sul _+_ in alto a sinistra si
 ![PlayersImg](images/3-giocatori.png "Aggiungi Giocatore")
 
 Qui vanno creati tutti i giocatori che parteciperanno alla _Stagione_ che creeremo successivamente.
+
 I campi obbligatori sono:
 - Nome
 - Cognome
 
 ## [](#stagioni)Stagioni
+
+Terminata la lista dei _Giocatori_ si può passare, tornando prima alla _Home_, alla schermata delle _Stagioni_
+
+![SeasonsImg](images/4-stagioni.png "Stagioni")
+
+
 
 > This is a blockquote following a header.
 >
