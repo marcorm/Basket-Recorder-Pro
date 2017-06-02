@@ -4,7 +4,7 @@ layout: default
 
 # Basket Recorder Pro
 
-Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}**
 
 Con Basket Recorder Pro puoi finalmente abbandonare i noiosi Scout cartacei, e tenere traccia delle statistiche dei tuoi giocatori direttamente dal tuo iPad.
 
@@ -30,14 +30,14 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
 
 Questa è una guida introduttiva per facilitare l'utilizzo dell'app per iPad **Basket Recorder Pro**
 
-Se hai un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+Se hai un iPad ed il tuo sport è il Basket, scarica **Basket Recorder Pro** direttamente dall'**[Apple Store](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}**
 
-Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook")**
+Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook"){:target="_blank"}**
 
 
 # [](#come-si-usa)Come si usa
 
-In questa sezione ti guideremo passo-passo nella configurazione e nell'utilizzo di **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
+In questa sezione ti guideremo passo-passo nella configurazione e nell'utilizzo di **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}**
 
 ![HomeImg](assets/images/1-home.jpg "Home Page")
 
