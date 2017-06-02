@@ -31,7 +31,17 @@ Puoi anche seguire le novità sugli aggiornamenti dell'app o darci dei consigli 
 
 In questa sezione ti guideremo passo-passo nella configurazione e nell'utilizzo di **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
+La prima schermata permette di navigare verso varie schermate, quali:
+- _I Miei Giocatori_
+- _Le Mie Stagioni_
+- _Board (lavagnetta)_
+- Opzioni / Backup / Crediti
+
+Cominciamo da quella dei _Giocatori_
+
 ## [](#giocatori)Giocatori
+
+
 
 > This is a blockquote following a header.
 >
