@@ -34,7 +34,7 @@ Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra 
 
 In questa sezione ti guideremo passo-passo nella configurazione e nell'utilizzo di **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
-![HomeImg](images/1-home.png "Home Page")
+![HomeImg](assets/images/1-home.png "Home Page")
 
 La prima schermata permette di navigare verso varie schermate, quali:
 - _I Miei Giocatori_
@@ -48,11 +48,11 @@ Cominciamo da quella dei _Giocatori_
 
 Quando si accede per la prima volta alla sezione dei _Giocatori_ ci viene presentata questa schermata:
 
-![PlayersImg](images/2-giocatori.png "Giocatori")
+![PlayersImg](assets/images/2-giocatori.png "Giocatori")
 
 Da qui, premendo su _Aggiungi un giocatore_ oppure sul _+_ in alto a sinistra si aprirà la schermata di aggiunta dei giocatori:
 
-![PlayersImg](images/3-giocatori.png "Aggiungi Giocatore")
+![PlayersImg](assets/images/3-giocatori.png "Aggiungi Giocatore")
 
 Qui vanno creati tutti i giocatori che parteciperanno alla _Stagione_ che creeremo successivamente.
 
@@ -64,7 +64,7 @@ I campi obbligatori sono:
 
 Terminata la lista dei _Giocatori_ si può passare, tornando prima alla _Home_, alla schermata delle _Stagioni_
 
-![SeasonsImg](images/4-stagioni.png "Stagioni")
+![SeasonsImg](assets/images/4-stagioni.png "Stagioni")
 
 
 
