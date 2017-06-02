@@ -7,9 +7,9 @@ Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.app
 
 ## Indice
 1. [Per iniziare](#per-iniziare)
-2. [Header 3]((#header-3)
+2. [3]((#header-3)
 3. [Larg Image](#large-image)
-
+4. [ciao](#header-3)
 
 
 ## Per iniziare
