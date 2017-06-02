@@ -6,6 +6,10 @@ layout: default
 
 Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App")**
 
+Con Basket Recorder Pro puoi finalmente abbandonare i noiosi Scout cartacei, e tenere traccia delle statistiche dei tuoi giocatori direttamente dal tuo iPad.
+
+Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per poi consultarle nel modo che più ti serve: singolo giocatore, singola partita o intera stagione.
+
 ## Indice
 
 - [Per iniziare](#per-iniziare)
@@ -72,9 +76,20 @@ Da qui, premendo su _Aggiungi una stagione_ oppure sul _+_ in alto a sinistra, s
 
 Qui vanno riempito almeno il campo obbligatorio: _Categoria_ e vanno scelti i _Giocatori_ che parteciperanno alla stagione. Questi possono essere anche aggiunti in un secondo momento.
 
-In questa sezione è anche possibile selezionare i numeri della prima e della seconda maglia. Nel caso fossero uguali, è sufficiente inserire il numero della prima maglia.
+In questa sezione è anche possibile selezionare i numeri della prima e della seconda maglia. Qualora fossero uguali, è sufficiente inserire il numero della prima maglia.
 
 ![SeasonsImg](assets/images/6-stagioni.jpg "Roster e N° Maglia")
+
+Una volta terminata l'impostazione della stagione, si può passare alla creazione delle partite premendo sul bottone _Vai Alla Stagione!_
+
+## [](#partite)Partite
+
+Arrivati a questo punto vanno inseriti i dati della prima partita della quale si vogliono raccogliere le statistiche.
+
+![GamesImg](assets/images/7-partite.jpg "Partite")
+
+
+
 
 > This is a blockquote following a header.
 >
