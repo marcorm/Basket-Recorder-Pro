@@ -88,8 +88,9 @@ Arrivati a questo punto vanno inseriti i dati della prima partita della quale si
 
 ![GamesImg](assets/images/7-partite.jpg "Partite")
 
+Da qui, premendo su _Aggiungi una partite_ oppure sul _+_ in alto a sinistra, si aprirà la schermata di aggiunta delle partite:
 
-
+![GamesImg](assets/images/8-partite.jpg "Aggiungi Partita")
 
 > This is a blockquote following a header.
 >
