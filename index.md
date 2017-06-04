@@ -117,6 +117,12 @@ Qui ha inizio la fase vera e propria di raccolta delle statistiche.
 
 <iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/1NY_RSH5d28?rel=0" frameborder="0" allowfullscreen></iframe>
 
+### [](#tiri)Tiri
+
+É possibile memorizzare ti tiri dei vari giocatori, memorizzando anche la posizione dalla quale vengono effettuati.
+
+<iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/0ROZA00jtjg?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 > This is a blockquote following a header.
 >
