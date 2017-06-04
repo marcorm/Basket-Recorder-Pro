@@ -25,7 +25,7 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Esiste una versione Android?](#versione-android)
   - [Esiste una versione per iPhone?](#versione-iphone)
   - [Dove si cambiano i numeri di maglia?](#numeri-maglia)
-  - [Ho aggiunto Giocatore non lo trovo nella lista dei convocabili](#nuovo-giocatore)
+  - [Ho aggiunto un Giocatore non lo trovo nella lista dei convocabili](#nuovo-giocatore)
   - [Posso importare i dati dalla versione Free?](#versione-free)
 - [Contatti](#contatti)
 
@@ -158,17 +158,37 @@ Presto questo processo sarà spiegato più nel dettaglio in questa guida.
 
 ## [](#versione-android)Esiste una versione Android?
 
+Al momento non esiste una versione android dell'App e, attualmente, non è in programma.
+
 ## [](#versione-iphone)Esiste una versione per iPhone?
+
+**[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}** è soltato per iPad, ma a breve (speriamo) sarà disponibile anche per iPhone.
 
 ## [](#numeri-maglia)Dove si cambiano i numeri di maglia?
 
-## [](#nuovo-giocatore)Ho aggiunto Giocatore non lo trovo nella lista dei convocabili
+I numeri di maglia, essendo legati alla stagione, si cambiano nel dettaglio della stagione, quindi bisogna:
+- Andare a _Le Mie Stagioni_
+- Premere sulla _i_ vicino al nome della stagione interessata
+- Nella schermata che si apre, premere su _Roster e N° Maglia_
+- Cambiare i numeri nelle caselle a fianco dei nomi dei giocatori
+
+## [](#nuovo-giocatore)Ho aggiunto un Giocatore non lo trovo nella lista dei convocabili
+
+Quando si aggiunge un nuovo giocatore, per averlo nella lista dei possibili convocati, bisogna prima inserirlo nel Roster della stagione:
+- Andare a _Le Mie Stagioni_
+- Premere sulla _i_ vicino al nome della stagione interessata
+- Nella schermata che si apre, premere su _Roster e N° Maglia_
+- Premere su un giocatore per far comparire la spunta blu accanto al suo nome
+- Tutti i giocatori con la spunta blu saranno disponibili nelle partite di quella stagione
 
 ## [](#versione-free)Posso importare i dati dalla versione Free?
 
+Purtroppo no.
+
 # [](#contatti)Contatti
 
-[Send email](mailto:basket.recorder@gmail.com)
+Puoi scriverci una mail per qualsiasi cosa [cliccando qui](mailto:basket.recorder@gmail.com)
 
 Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook"){:target="_blank"}**
 
+Buon Basket a tutti con **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}** 
