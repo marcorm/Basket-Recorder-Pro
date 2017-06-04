@@ -18,6 +18,7 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Stagioni](#stagioni)
   - [Partite](#partite)
   - [Raccolta Statistiche](#raccolta-statistiche)
+  - [Condivisione Statistiche](#condivisione-statistiche)
 - [Domande Frequenti](#domande-frequenti)
   - [Versione Android]()
   - [Numeri Maglia]()
@@ -107,7 +108,29 @@ Per cominciare una partita bisogna convocare almeno _5 Giocatori_.
 
 ## [](#raccolta-statistiche)Raccolta Statistiche
 
-Dopo aver cliccato su _Vai Alla Partita!_ ed aver speso il credito relativo, ci verrà chiesto di inserire il _Quintetto Base_
+Dopo aver cliccato su _Vai Alla Partita!_ ed aver speso il credito relativo, ci verrà chiesto di inserire il _Quintetto Base_. Per farlo basterà premere sui giocatori che si vogliono schierare in campo; l'app non accetterà più di 5 giocatori schierati.
+
+Una volta terminata questa fase si potrà iniziare a raccogliere le statistiche. Dopo aver selezionato, nella parte sinistra, uno tra i giocatori in campo, ci verrà mostrata la seguente schermata:
+
+![StatsImg](assets/images/10-stats.jpg "Statistiche")
+
+Qui ha inizio la fase vera e propria di raccolta delle statistiche.
+
+<iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/1NY_RSH5d28?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### [](#tiri)Tiri
+
+É possibile memorizzare ti tiri dei vari giocatori, memorizzando anche la posizione dalla quale vengono effettuati e l'esito del tentativo.
+
+<iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/0ROZA00jtjg?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### [](#undo)Annulla / Ripristina
+
+Altra funzione fondamentale di *Basket Recorder Pro* è la possbilità di annullare e ripristinare azioni di gioco inserite per sbaglio.
+
+<iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/cx404B40HXE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+## [](#condivisione-statistiche)Condivisione Statistiche
 
 
 > This is a blockquote following a header.
