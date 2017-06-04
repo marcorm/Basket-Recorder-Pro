@@ -18,6 +18,7 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Stagioni](#stagioni)
   - [Partite](#partite)
   - [Raccolta Statistiche](#raccolta-statistiche)
+  - [Condivisione Statistiche](#condivisione-statistiche)
 - [Domande Frequenti](#domande-frequenti)
   - [Versione Android]()
   - [Numeri Maglia]()
@@ -119,9 +120,17 @@ Qui ha inizio la fase vera e propria di raccolta delle statistiche.
 
 ### [](#tiri)Tiri
 
-É possibile memorizzare ti tiri dei vari giocatori, memorizzando anche la posizione dalla quale vengono effettuati.
+É possibile memorizzare ti tiri dei vari giocatori, memorizzando anche la posizione dalla quale vengono effettuati e l'esito del tentativo.
 
 <iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/0ROZA00jtjg?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### [](#undo)Annulla / Ripristina
+
+Altra funzione fondamentale di *Basket Recorder Pro* è la possbilità di annullare e ripristinare azioni di gioco inserite per sbaglio.
+
+<iframe class="youtube" width="650" height="366" src="https://www.youtube.com/embed/cx404B40HXE?rel=0" frameborder="0" allowfullscreen></iframe>
+
+## [](#condivisione-statistiche)Condivisione Statistiche
 
 
 > This is a blockquote following a header.
