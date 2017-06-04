@@ -107,7 +107,13 @@ Per cominciare una partita bisogna convocare almeno _5 Giocatori_.
 
 ## [](#raccolta-statistiche)Raccolta Statistiche
 
-Dopo aver cliccato su _Vai Alla Partita!_ ed aver speso il credito relativo, ci verrà chiesto di inserire il _Quintetto Base_
+Dopo aver cliccato su _Vai Alla Partita!_ ed aver speso il credito relativo, ci verrà chiesto di inserire il _Quintetto Base_. Per farlo basterà premere sui giocatori che si vogliono schierare in campo; l'app non accetterà più di 5 giocatori schierati.
+
+Una volta terminata questa fase si potrà iniziare a raccogliere le statistiche. Dopo aver selezionato, nella parte sinistra, uno tra i giocatori in campo, ci verrà mostrata la seguente schermata:
+
+![StatsImg](assets/images/10-stats.jpg "Statistiche")
+
+
 
 
 > This is a blockquote following a header.
