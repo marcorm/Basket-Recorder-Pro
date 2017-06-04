@@ -116,6 +116,7 @@ Una volta terminata questa fase si potrà iniziare a raccogliere le statistiche.
 Qui ha inizio la fase vera e propria di raccolta delle statistiche.
 
 <iframe style="max-width:100%;" width="650" height="366" src="https://www.youtube.com/embed/1NY_RSH5d28" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%;height:auto;" width="650" height="366" src="https://www.youtube.com/embed/1NY_RSH5d28?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 > This is a blockquote following a header.
