@@ -132,6 +132,16 @@ Altra funzione fondamentale di *Basket Recorder Pro* è la possbilità di annull
 
 ## [](#condivisione-statistiche)Condivisione Statistiche
 
+Dalla schermata della lista delle partite si può accedere al dettaglio delle statistiche, premendo su _vedi le statistiche dettagliate della partita_. 
+
+![StatsImg](assets/images/11-stats.jpg "Condividi Statistiche")
+
+Dalla schermata che compare è possibile condividere le statistiche in due modi dalle due icone in alto a sinistra sullo schermo.
+- Premendo sull'icona con la _freccia verso l'alto_, si può mandare l'immagine delle statistiche via email o postarla su diversi Social Network
+- Premendo sull'icona a forma di _matita_ è possibile soltanto inviare email ma, nel contenuto della mail, verrà allegato un file Excel con il riassunto dettagliato della partita. Questo è possbile anche per quel che riguarda le _Stagioni_
+
+
+
 
 > This is a blockquote following a header.
 >
