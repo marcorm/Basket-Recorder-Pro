@@ -19,11 +19,14 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Partite](#partite)
   - [Raccolta Statistiche](#raccolta-statistiche)
   - [Condivisione Statistiche](#condivisione-statistiche)
+  - [Modifica Statistiche](#modifica-statistiche)
+  - [Backup dei dati](#backup)
 - [Domande Frequenti](#domande-frequenti)
-  - [Versione Android]()
-  - [Numeri Maglia]()
-  - [Versione Free]()
-  - [Ho aggiunto Giocatore non lo posso convocare]()
+  - [Esiste una versione Android?](#versione-android)
+  - [Esiste una versione per iPhone?](#versione-iphone)
+  - [Dove si cambiano i numeri di maglia?](#numeri-maglia)
+  - [Ho aggiunto Giocatore non lo trovo nella lista dei convocabili](#nuovo-giocatore)
+  - [Posso importare i dati dalla versione Free?](#versione-free)
 - [Contatti](#contatti)
 
 
@@ -140,111 +143,32 @@ Dalla schermata che compare è possibile condividere le statistiche in due modi 
 - Premendo sull'icona con la _freccia verso l'alto_, si può mandare l'immagine delle statistiche via email o postarla su diversi Social Network
 - Premendo sull'icona a forma di _matita_ è possibile soltanto inviare email ma, nel contenuto della mail, verrà allegato un file Excel con il riassunto dettagliato della partita. Questo è possbile anche per quel che riguarda le _Stagioni_
 
+## [](#modifica-statistiche)Modifica Statistiche
 
+É possibile editare la maggior parte delle statistiche anche dopo la fine della partita.
 
+![StatsImg](assets/images/12-stats.jpg "Modifica Statistiche")
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## [](#backup)Backup dei dati
 
-### [](#header-3)Header 3
+Dalla versione 2.6 è possibile fare un backup nel Cloud dei propri dati e ripristinarli su qualsiasi altro dispositivo.
+Presto questo processo sarà spiegato più nel dettaglio in questa guida.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# [](#domande-frequenti)Domande Frequenti
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## [](#versione-android)Esiste una versione Android?
 
-#### [](#header-4)Header 4
+## [](#versione-iphone)Esiste una versione per iPhone?
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## [](#numeri-maglia)Dove si cambiano i numeri di maglia?
 
-##### [](#header-5)Header 5
+## [](#nuovo-giocatore)Ho aggiunto Giocatore non lo trovo nella lista dei convocabili
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## [](#versione-free)Posso importare i dati dalla versione Free?
 
-###### [](#header-6)Header 6
+# [](#contatti)Contatti
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[Send email](mailto:basket.recorder@gmail.com)
 
-### There's a horizontal rule below this.
+Puoi anche seguire gli aggiornamenti dell'app o darci dei consigli dalla nostra **[Pagina Facebook](https://www.facebook.com/BasketRecorder "Visita la pagina Facebook"){:target="_blank"}**
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
