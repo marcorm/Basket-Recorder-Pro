@@ -170,7 +170,7 @@ I numeri di maglia, essendo legati alla stagione, si cambiano nel dettaglio dell
 - Nella schermata che si apre, premere su _Roster e N° Maglia_
 - Cambiare i numeri nelle caselle a fianco dei nomi dei giocatori
 
-## [](#ho-aggiunto-un-giocatore-non-lo-trovo-nella-lista-dei-convocabili)Ho aggiunto un Giocatore non lo trovo nella lista dei convocabili
+## [](#ho-aggiunto-un-giocatore-non-lo-trovo-nella-lista-dei-convocabili)Ho aggiunto un Giocatore, non lo trovo nella lista dei convocabili
 
 Quando si aggiunge un nuovo giocatore, per averlo nella lista dei possibili convocati, bisogna prima inserirlo nel Roster della stagione:
 - Andare a _Le Mie Stagioni_
