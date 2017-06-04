@@ -20,13 +20,13 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Raccolta Statistiche](#raccolta-statistiche)
   - [Condivisione Statistiche](#condivisione-statistiche)
   - [Modifica Statistiche](#modifica-statistiche)
-  - [Backup dei dati](#backup)
+  - [Backup dei dati](#backup-dei-dati)
 - [Domande Frequenti](#domande-frequenti)
-  - [Esiste una versione Android?](#versione-android)
-  - [Esiste una versione per iPhone?](#versione-iphone)
-  - [Dove si cambiano i numeri di maglia?](#numeri-maglia)
-  - [Ho aggiunto un Giocatore non lo trovo nella lista dei convocabili](#nuovo-giocatore)
-  - [Posso importare i dati dalla versione Free?](#versione-free)
+  - [Esiste una versione Android?](#esiste-una-versione-android)
+  - [Esiste una versione per iPhone?](#esiste-una-versione-per-iphone)
+  - [Dove si cambiano i numeri di maglia?](#dove-si-cambiano-i-numeri-di-maglia)
+  - [Ho aggiunto un Giocatore, non lo trovo nella lista dei convocabili](#ho-aggiunto-un-giocatore-non-lo-trovo-nella-lista-dei-convocabili)
+  - [Posso importare i dati dalla versione Free?](#posso-importare-i-dati-dalla-versione-free)
 - [Contatti](#contatti)
 
 
@@ -149,22 +149,20 @@ Dalla schermata che compare è possibile condividere le statistiche in due modi 
 
 ![StatsImg](assets/images/12-stats.jpg "Modifica Statistiche")
 
-## [](#backup)Backup dei dati
+## [](#backup-dei-dati)Backup dei dati
 
 Dalla versione 2.6 è possibile fare un backup nel Cloud dei propri dati e ripristinarli su qualsiasi altro dispositivo.
 Presto questo processo sarà spiegato più nel dettaglio in questa guida.
 
-# [](#domande-frequenti)Domande Frequenti
-
-## [](#versione-android)Esiste una versione Android?
+## [](#esiste-una-versione-android)Esiste una versione Android?
 
 Al momento non esiste una versione android dell'App e, attualmente, non è in programma.
 
-## [](#versione-iphone)Esiste una versione per iPhone?
+## [](#esiste-una-versione-per-iphone)Esiste una versione per iPhone?
 
 **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}** è soltato per iPad, ma a breve (speriamo) sarà disponibile anche per iPhone.
 
-## [](#numeri-maglia)Dove si cambiano i numeri di maglia?
+## [](#dove-si-cambiano-i-numeri-di-maglia)Dove si cambiano i numeri di maglia?
 
 I numeri di maglia, essendo legati alla stagione, si cambiano nel dettaglio della stagione, quindi bisogna:
 - Andare a _Le Mie Stagioni_
@@ -172,7 +170,7 @@ I numeri di maglia, essendo legati alla stagione, si cambiano nel dettaglio dell
 - Nella schermata che si apre, premere su _Roster e N° Maglia_
 - Cambiare i numeri nelle caselle a fianco dei nomi dei giocatori
 
-## [](#nuovo-giocatore)Ho aggiunto un Giocatore non lo trovo nella lista dei convocabili
+## [](#ho-aggiunto-un-giocatore-non-lo-trovo-nella-lista-dei-convocabili)Ho aggiunto un Giocatore non lo trovo nella lista dei convocabili
 
 Quando si aggiunge un nuovo giocatore, per averlo nella lista dei possibili convocati, bisogna prima inserirlo nel Roster della stagione:
 - Andare a _Le Mie Stagioni_
@@ -181,7 +179,7 @@ Quando si aggiunge un nuovo giocatore, per averlo nella lista dei possibili conv
 - Premere su un giocatore per far comparire la spunta blu accanto al suo nome
 - Tutti i giocatori con la spunta blu saranno disponibili nelle partite di quella stagione
 
-## [](#versione-free)Posso importare i dati dalla versione Free?
+## [](#posso-importare-i-dati-dalla-versione-free)Posso importare i dati dalla versione Free?
 
 Purtroppo no.
 
