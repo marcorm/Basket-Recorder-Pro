@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+header{
+  padding: 35px 25px;
+}
 p img {
     max-width:100%;
 }
@@ -9,7 +12,8 @@ a.itunes {
     display: block;
     height: 50px;
     background: url(../images/iTunes.svg) no-repeat 1px;
-    margin: 20px;
+    margin: 20px 0;
+    padding:0;
 }
 iframe.youtube {
     max-width:100%;
