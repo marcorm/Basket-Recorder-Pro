@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Basket Recorder Pro
+# Basket Recorder Pro Tutorial
 
 Guida introduttiva per l'App per iPad **[Basket Recorder Pro](https://itunes.apple.com/it/app/basket-recorder-pro/id590251773?mt=8 "Download App"){:target="_blank"}**
 
