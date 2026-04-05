@@ -26,7 +26,6 @@ Puoi memorizzare le statistiche di diverse squadre, in diversi campionati, per p
   - [Esiste una versione per iPhone?](#esiste-una-versione-per-iphone)
   - [Dove si cambiano i numeri di maglia?](#dove-si-cambiano-i-numeri-di-maglia)
   - [Ho aggiunto un Giocatore, non lo trovo nella lista dei convocabili](#ho-aggiunto-un-giocatore-non-lo-trovo-nella-lista-dei-convocabili)
-  - [Posso importare i dati dalla versione Free?](#posso-importare-i-dati-dalla-versione-free)
 - [Contatti](#contatti)
 
 
@@ -178,10 +177,6 @@ Quando si aggiunge un nuovo giocatore, per averlo nella lista dei possibili conv
 - Nella schermata che si apre, premere su _Roster e N° Maglia_
 - Premere su un giocatore per far comparire la spunta blu accanto al suo nome
 - Tutti i giocatori con la spunta blu saranno disponibili nelle partite di quella stagione
-
-## [](#posso-importare-i-dati-dalla-versione-free)Posso importare i dati dalla versione Free?
-
-Purtroppo no.
 
 # [](#contatti)Contatti
 
